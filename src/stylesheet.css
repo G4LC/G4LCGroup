@@ -18,3 +18,10 @@ nav {
 .nv:hover{
     color: gray;
 }
+.h{
+    font-size: 30px;
+}
+video {
+    height: 250px;
+    width: 500px;
+}
